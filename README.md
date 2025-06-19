@@ -1,6 +1,6 @@
 # OnlineRetailer.Staff
 
-A frontend service for staff management within the OnlineRetailer system, developed as part of a university DevOps module.
+A frontend service for staff management within the OnlineRetailer system, developed as part of my university DevOps module.
 
 ## Overview
 
