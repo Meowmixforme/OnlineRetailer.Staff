@@ -10,6 +10,12 @@ This repository provides a staff management interface for the OnlineRetailer pla
 
 ---
 
+
+
+<img width="2791" height="1960" alt="ThAmCo-Level-2 drawio" src="https://github.com/user-attachments/assets/f0320752-d0df-4d00-8815-c88bce37b46e" />
+
+
+
 ## Project Structure
 
 - **ThAmCo.Staff/**
