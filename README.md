@@ -2,6 +2,8 @@
 
 A frontend service for staff management within the OnlineRetailer system, developed as part of a university Cloud Computing DevOps module.
 
+⚠️ This project was part of a now-retired backend integration. All credentials and endpoints are decommissioned and non-functional.
+
 ---
 
 ## Overview
