@@ -12,7 +12,8 @@ This repository provides a staff management interface for the OnlineRetailer pla
 
 C4 Level-2 Diagram (click to expand)
 
-<img width="2791" height="1960" alt="ThAmCo-Level-2 drawio" src="https://github.com/user-attachments/assets/001e899e-4f38-447a-bdd9-b5222c45a505" />
+
+<img width="2791" height="1960" alt="ThAmCo-Level-2 drawio" src="https://github.com/user-attachments/assets/f9e99f37-bada-4140-b5bb-adce679c521b" />
 
 
 
