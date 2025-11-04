@@ -102,3 +102,7 @@ dotnet test Thamco.StaffTests
 ## Licence
 
 This project is licensed under the terms of the MIT Licence.
+
+  Click on the thumbnail to view the Demonstration video
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/Py18YG2PwqM/0.jpg)](https://youtu.be/Py18YG2PwqM) 
